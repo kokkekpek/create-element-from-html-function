@@ -8,9 +8,12 @@ yarn webpack
 ```
 
 ## Use
+```sh
+yarn add kokkekpek/create-element-from-html-function
+```
+
 ```ts
-import 'demo-css'
-import createElementFromHTML from '../'
+import createElementFromHTML from 'create-element-from-html-function'
 
 const element: HTMLElement = createElementFromHTML(
     `<div>
