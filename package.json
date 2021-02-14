@@ -1,7 +1,7 @@
 {
   "name": "create-element-from-html-function",
   "license": "MIT",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "devDependencies": {
     "css-loader": "^5.0.2",
     "demo-css": "kokkekpek/demo-css",
